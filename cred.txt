@@ -1,0 +1,2 @@
+user_name=sri123
+password=12fr4
