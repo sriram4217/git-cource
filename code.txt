@@ -1,1 +1,2 @@
- hi it is as   sample file to be learn 
+ hi it is as   sample file to be learn !
+ hi  i can do git opea!
