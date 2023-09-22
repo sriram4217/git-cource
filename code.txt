@@ -1,2 +1,22 @@
- hi it is as   sample file to be learn !
- hi  i can do git opea!
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    vector<int> a={4,2,2,6,4};
+    set<int> st;
+    c=0
+    for(int i=0;i<a.size();i++){
+        for(j=i;j<n;j++){
+            for(int k=i;K<=j;k++){
+                int xor=0;
+                xor=xor^a[k];
+                if(xor==6){
+                    c+=1;
+                }
+            }
+        }
+    }
+    vector<vector<int>> ans(st.begin(),st.end());
+    /for(auto it : ans){
+        cout<<it;
+    }
+}
